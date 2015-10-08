@@ -2,7 +2,7 @@ require 'formula'
 
 class Mspdebug <Formula
   url 'http://downloads.sourceforge.net/project/mspdebug/mspdebug-0.10.tar.gz'
-  md5 '6537f6666451a82422d6a5b01ba48e9c'
+  sha256 'f77975c99b40d330f8258871ab0fd2033ed974ef149864ba66425968a9dd76eb'
   homepage 'http://mspdebug.sf.net/'
   head 'git://mspdebug.git.sourceforge.net/gitroot/mspdebug/mspdebug'
 
